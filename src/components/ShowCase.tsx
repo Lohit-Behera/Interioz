@@ -2,7 +2,7 @@ import imageThree from "../assets/imageThree.jpg";
 import imageFour from "../assets/imageFour.jpg";
 import imageFive from "../assets/imageFive.jpg";
 import imageSix from "../assets/imageSix.jpg";
-import imageEight from "../assets/imageEight.jpg";
+import imageEight from "../assets/ImageEight.jpg";
 
 import Image from "next/image";
 // TODO show on click of image show full image with buttons for prev and next

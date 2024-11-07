@@ -20,7 +20,7 @@ import {
 import imageOne from "../assets/imageOne.jpg";
 import imageTwo from "../assets/imageTwo.jpg";
 import imageNine from "../assets/imageNine.jpg";
-import imageTen from "../assets/imageTen.jpg";
+import imageTen from "../assets/ImageTen.jpg";
 import imageEleven from "../assets/imageEleven.jpg";
 import imageTwelve from "../assets/imageTwelve.jpg";
 import imageThirteen from "../assets/imageThirteen.jpg";
