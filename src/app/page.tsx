@@ -17,7 +17,7 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 
-import imageOne from "../assets/very-high-detailed.jpg";
+import imageOne from "../assets/imageOne.jpg";
 import imageTwo from "../assets/imageTwo.jpg";
 import imageNine from "../assets/imageNine.jpg";
 import imageTen from "../assets/imageTen.jpg";
